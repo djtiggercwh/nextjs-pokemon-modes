@@ -20,7 +20,7 @@ export default function Home({ pokemon }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pokemon List</title>
+        <title>Pokemon List???</title>
       </Head>
       <h2>Pokemon List</h2>
       <div className={styles.grid}>
